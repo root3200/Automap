@@ -7,7 +7,7 @@
 ## Puedes usarla para hacer escaneo automatico o manual.
 Ejemplos.
 
-    AUTOMAP= Hace un scaner automatico con la ip 192.168.1.0/24 y los paremtros nmap -p- -sS --min-rate 5000 --open -vvv -Pn
+    AUTOMAP= Hace un scaner automatico con la ip 192.168.1.0/24 y los parametros nmap -p- -sS --min-rate 5000 --open -vvv -Pn
     MANUALMAP= Escribes tu ip objetivo y aplica un escaner con los parametros nmap -p- -sS --min-rate 5000 --open -vvv -Pn
 
 ## Ejecutar como root :-> sudo ./main
